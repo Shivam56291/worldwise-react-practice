@@ -64,7 +64,14 @@ export default function Map() {
             key={city.id}
           >
             <Popup>
-              <span>{city.emoji}</span> <span>{city.cityName}</span>
+              <span>
+                <img
+                  src={`https://flagcdn.com/24x18/${city.countryCode.toLowerCase()}.png`}
+                  alt={city.countryCode}
+                  style={{ verticalAlign: "middle" }}
+                />
+              </span>{" "}
+              <span>{city.cityName}</span>
             </Popup>
           </Marker>
         ))}
