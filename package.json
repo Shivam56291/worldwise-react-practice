@@ -1,0 +1,42 @@
+{
+  "name": "worldwise",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch data/cities.json --port 9000 --delay 500",
+    "lint": "eslint . --ext .js,.jsx"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "^19.1.1",
+    "react-datepicker": "^8.7.0",
+    "react-dom": "^19.1.1",
+    "react-leaflet": "^5.0.0",
+    "react-router-dom": "^6.30.1",
+    "twemoji": "^14.0.2"
+    
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    
+    "@vitejs/plugin-react-swc": "^4.0.1",
+    
+    "eslint": "^9.34.0",
+   
+    "eslint-plugin-jest-dom": "^5.5.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "eslint-plugin-testing-library": "^7.6.8",
+    "globals": "^16.3.0",
+    "json-server": "^0.17.4",
+    "vite": "^7.1.2"
+  }
+}

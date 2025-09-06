@@ -1,0 +1,104 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Dhule",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "countryCode": "IN",
+      "date": "2025-09-05T08:28:51.776Z",
+      "notes": "nice",
+      "position": {
+        "lat": "20.87270190287256",
+        "lng": "74.6160971881651"
+      },
+      "id": 98443898
+    },
+    {
+      "cityName": "Rikaze Diqu",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "countryCode": "CN",
+      "date": "2025-09-05T08:36:28.229Z",
+      "notes": "thik",
+      "position": {
+        "lat": "31.02037488934709",
+        "lng": "82.88085937500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "In Salah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "countryCode": "DZ",
+      "date": "2025-09-05T09:12:59.101Z",
+      "notes": "salahhh",
+      "position": {
+        "lat": "26.780738838346995",
+        "lng": "3.1640625000000004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Fatehpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "countryCode": "IN",
+      "date": "2025-09-06T11:19:40.204Z",
+      "notes": "nice place\n",
+      "position": {
+        "lat": "27.884804504249043",
+        "lng": "74.83886718750001"
+      },
+      "id": 98443899
+    }
+  ]
+}
