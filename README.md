@@ -142,7 +142,7 @@ A mock authentication system is implemented using **AuthContext**.
   "password": "qwerty",
   "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHyO1-8RoTqJg/profile-displayphoto-shrink_400_400/B4DZdPuu8FH4Ag-/0/1749389341042?e=1759968000&v=beta&t=mkleG6EVP2vlWMlhOqcd1OQVXhIjjGOZIeNSLp08DxE"
 }
-
+```
 
 ## 🔑 Login at `/login`
 
@@ -160,7 +160,6 @@ Once logged in, you can access the following protected routes:
 - `/app/cities` → Manage and view saved cities
 - `/app/countries` → Explore countries list
 - `/app/form` → Add a new city
-
 
 ## 📁 Project Structure
 worldwise/
