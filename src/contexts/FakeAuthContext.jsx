@@ -22,9 +22,10 @@ function reducer(state, action) {
 
 const FAKE_USER = {
   name: "Shivam",
-  email: "jack@example.com",
+  email: "dummy@example.com",
   password: "qwerty",
-  avatar: "https://i.pravatar.cc/100?u=zz",
+  avatar:
+    "https://media.licdn.com/dms/image/v2/D4D03AQHyO1-8RoTqJg/profile-displayphoto-shrink_400_400/B4DZdPuu8FH4Ag-/0/1749389341042?e=1759968000&v=beta&t=mkleG6EVP2vlWMlhOqcd1OQVXhIjjGOZIeNSLp08DxE",
 };
 
 function AuthProvider({ children }) {
