@@ -162,6 +162,7 @@ Once logged in, you can access the following protected routes:
 - `/app/form` → Add a new city
 
 ## 📁 Project Structure
+
 worldwise/
 │── src/
 │ ├── components/ # Reusable UI components (Map, Sidebar, Spinner, etc.)
@@ -177,4 +178,3 @@ worldwise/
 │── package.json
 │── vite.config.js
 │── README.md
-```
