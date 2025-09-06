@@ -4,6 +4,7 @@
       "cityName": "Lisbon",
       "country": "Portugal",
       "emoji": "🇵🇹",
+      "countryCode": "PT",
       "date": "2027-10-31T15:59:59.138Z",
       "notes": "My favorite city so far!",
       "position": {
@@ -16,6 +17,7 @@
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
+      "countryCode": "ES",
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
       "position": {
@@ -28,6 +30,7 @@
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
+      "countryCode": "DE",
       "date": "2027-02-12T09:24:11.863Z",
       "notes": "Amazing 😃",
       "position": {
@@ -40,6 +43,7 @@
       "cityName": "Nijar",
       "country": "Spain",
       "emoji": "🇪🇸",
+      "countryCode": "ES",
       "date": "2023-04-03T07:47:59.202Z",
       "notes": "",
       "position": {
@@ -99,6 +103,19 @@
         "lng": "74.83886718750001"
       },
       "id": 98443899
+    },
+    {
+      "cityName": "Fatehgarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "countryCode": "IN",
+      "date": "2025-09-06T11:50:17.906Z",
+      "notes": "",
+      "position": {
+        "lat": "26.24212182114203",
+        "lng": "70.79589843750001"
+      },
+      "id": 98443900
     }
   ]
 }

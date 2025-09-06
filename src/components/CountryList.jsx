@@ -20,7 +20,8 @@ export default function CountryList() {
         ...arr,
         {
           country: city.country,
-          emoji: city.country,
+          emoji: city.emoji,
+          countryCode: city.countryCode,
         },
       ];
     else return arr;

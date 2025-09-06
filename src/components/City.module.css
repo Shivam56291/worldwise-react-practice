@@ -50,3 +50,7 @@
   font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji",
     sans-serif;
 }
+
+.city h3 span img{
+  top: 1px;
+}

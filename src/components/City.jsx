@@ -26,7 +26,8 @@ function City() {
     [id, getCity]
   );
 
-  const { cityName, emoji, date, notes } = currentCity;
+  const { cityName, date, notes, countryCode } = currentCity;
+  console.log(currentCity);
 
   if (isLoading) return <Spinner />;
 
@@ -35,7 +36,14 @@ function City() {
       <div className={styles.row}>
         <h6>City name</h6>
         <h3>
-          <span>{emoji}</span> {cityName}
+          <span>
+            <img
+              src={`https://flagcdn.com/24x18/${countryCode.toLowerCase()}.png`}
+              alt={countryCode}
+              style={{ verticalAlign: "middle" }}
+            />
+          </span>{" "}
+          {cityName}
         </h3>
       </div>
 
