@@ -66,32 +66,6 @@
       "id": 98443898
     },
     {
-      "cityName": "Rikaze Diqu",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "countryCode": "CN",
-      "date": "2025-09-05T08:36:28.229Z",
-      "notes": "High mountains and spiritual vibe, unforgettable place.",
-      "position": {
-        "lat": "31.02037488934709",
-        "lng": "82.88085937500001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "In Salah",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "countryCode": "DZ",
-      "date": "2025-09-05T09:12:59.101Z",
-      "notes": "Desert city with mesmerizing sand dunes.",
-      "position": {
-        "lat": "26.780738838346995",
-        "lng": "3.1640625000000004"
-      },
-      "id": 98443202
-    },
-    {
       "cityName": "Fatehpur",
       "country": "India",
       "emoji": "🇮🇳",

@@ -27,7 +27,6 @@ function City() {
   );
 
   const { cityName, date, notes, countryCode } = currentCity;
-  console.log(currentCity);
 
   if (isLoading) return <Spinner />;
 
@@ -38,9 +37,13 @@ function City() {
         <h3>
           <span>
             <img
-              src={`https://flagcdn.com/24x18/${countryCode.toLowerCase()}.png`}
-              alt={countryCode}
-              style={{ verticalAlign: "middle" }}
+              src={
+                countryCode
+                  ? `https://flagcdn.com/24x18/${countryCode.toLowerCase()}.png`
+                  : null
+              }
+              alt={countryCode || "Unknown"}
+              className="inline-block align-middle"
             />
           </span>{" "}
           {cityName}
