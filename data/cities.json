@@ -90,6 +90,19 @@
         "lng": "70.79589843750001"
       },
       "id": 98443900
+    },
+    {
+      "cityName": "Leh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "countryCode": "IN",
+      "date": "2025-09-16T08:39:35.000Z",
+      "notes": "Visited Leh — breathtaking mountains, monasteries, and crystal-clear skies!",
+      "position": {
+        "lat": "33.694496153680134",
+        "lng": "77.255859375"
+      },
+      "id": 98443901
     }
   ]
 }
